@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My eportfolio
-email: ma22749@essex.ac.uk
+title: "My eportfolio"
+email: "ma22749@essex.ac.uk"
 author: GitHub User
 
 # Copyright setting
